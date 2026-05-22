@@ -1,4 +1,4 @@
-# Compiler + Virtual Machine (100% curriculum)
+# Compiler + Virtual Machine
 
 ## Pipeline
 
